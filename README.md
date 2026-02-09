@@ -1,2 +1,2 @@
-# COE328-Digital-Systems
-Digital logic design and simulation labs using VHDL and Quartus software.
+# VHDL-Digital-Logic-Design
+Digital logic design and simulation using VHDL and Quartus software.
